@@ -1,0 +1,36 @@
+.main_header {
+  background-color: crimson;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-size: 40px;
+  color:#ffffff;
+  text-decoration: none;
+  padding-left: 100px;
+  
+}
+.user a{
+  background-color: #ffffff;
+  border: 2px #ffffff;
+  padding: 15px;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  margin-right: 100px;
+}
+.mains {
+  background-color: #ffffff;
+  height: calc(100vh - 100px);
+  overflow: scroll;
+}
+.main{
+  padding-left: 50px;
+}
+.content a{
+  font-size: 40px;
+  color: black;
+  text-decoration: none;
+}
